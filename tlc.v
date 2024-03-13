@@ -1,3 +1,4 @@
+%MAIN NODULE
 module traffic_light_controller(
     input clk, rst,
     output reg [2:0] light_M1,
