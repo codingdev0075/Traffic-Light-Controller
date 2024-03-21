@@ -1,4 +1,4 @@
-module traffic_light_controller_tb;
+
 
     reg clk, rst;
     wire [2:0] light_M1;
